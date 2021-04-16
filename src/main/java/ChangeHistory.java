@@ -46,4 +46,6 @@ public class ChangeHistory {
         }
         return sum / history.size();
     }
+    
+    
 }
