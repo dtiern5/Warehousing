@@ -12,7 +12,7 @@ public class ProductWarehouse extends Warehouse {
     }
     
     public String getName() {
-        return product;
+        return this.product;
     }
     
     @Override
